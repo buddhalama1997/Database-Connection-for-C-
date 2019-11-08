@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\bin\Debug\AppData\StudentDB.accdb
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\bin\Debug\DatabaseConnnnn.exe.config
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\bin\Debug\DatabaseConnnnn.exe
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\bin\Debug\DatabaseConnnnn.pdb
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.Form1.resources
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.Properties.Resources.resources
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.exe
+C:\Users\Acer\Desktop\C#\DatabaseConnnnn\DatabaseConnnnn\obj\Debug\DatabaseConnnnn.pdb
